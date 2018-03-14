@@ -9,9 +9,11 @@ buildscript {
             url uri('./repo')
         }
     }
+
     dependencies {
         classpath 'com.android.tools.build:gradle:3.0.1'
         classpath 'com.ecaray.andcomponent:build-gradle:1.0.2'
+        classpath 'com.jakewharton:butterknife-gradle-plugin:8.5.1'
     }
 }
 
@@ -22,6 +24,8 @@ allprojects {
         maven {
             url uri('./repo')
         }
+        maven { url 'https://jitpack.io' }
+        maven { url 'https://dl.bintray.com/yichekeji/maven/' }
     }
 }
 

@@ -1,1 +1,1 @@
-include ':app', ':componentservice', ':build-gradle', ':basicres', ':basiclib', ':logincomponent'
+include ':app', ':componentservice', ':build-gradle', ':basicres', ':basiclib', ':logincomponent', ':greendaolib', ':evoicelib', ':codenomallib', ':codetestlib'

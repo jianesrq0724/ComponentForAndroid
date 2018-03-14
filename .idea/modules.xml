@@ -7,7 +7,11 @@
       <module fileurl="file://$PROJECT_DIR$/basiclib/basiclib.iml" filepath="$PROJECT_DIR$/basiclib/basiclib.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicres/basicres.iml" filepath="$PROJECT_DIR$/basicres/basicres.iml" />
       <module fileurl="file://$PROJECT_DIR$/build-gradle/build-gradle.iml" filepath="$PROJECT_DIR$/build-gradle/build-gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codenomallib/codenomallib.iml" filepath="$PROJECT_DIR$/codenomallib/codenomallib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codetestlib/codetestlib.iml" filepath="$PROJECT_DIR$/codetestlib/codetestlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/componentservice/componentservice.iml" filepath="$PROJECT_DIR$/componentservice/componentservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evoicelib/evoicelib.iml" filepath="$PROJECT_DIR$/evoicelib/evoicelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendaolib/greendaolib.iml" filepath="$PROJECT_DIR$/greendaolib/greendaolib.iml" />
       <module fileurl="file://$PROJECT_DIR$/logincomponent/logincomponent.iml" filepath="$PROJECT_DIR$/logincomponent/logincomponent.iml" />
     </modules>
   </component>

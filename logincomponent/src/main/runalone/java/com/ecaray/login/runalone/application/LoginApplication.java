@@ -1,6 +1,6 @@
 package com.ecaray.login.runalone.application;
 
-import android.app.Application;
+import com.ecaray.basicres.base.BaseApplication;
 
 /**
  * @author Carl
@@ -8,7 +8,7 @@ import android.app.Application;
  * @since 2018/3/12
  */
 
-public class LoginApplication extends Application {
+public class LoginApplication extends BaseApplication {
     @Override
     public void onCreate() {
         super.onCreate();

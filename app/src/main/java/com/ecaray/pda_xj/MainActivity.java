@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.textView).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                UIRouter.getInstance().openUri(MainActivity.this, "DDComp://login/loginIn", null);
+                UIRouter.getInstance().openUri(MainActivity.this, "PDA://login/loginIn", null);
             }
         });
     }
