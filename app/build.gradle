@@ -44,6 +44,6 @@ dependencies {
 
 
 combuild {
-    applicationName = 'com.ecaray.e_pda_xj.application.AppApplication'
+    applicationName = 'com.ecaray.pda_xj.application.AppApplication'
     isRegisterCompoAuto = true
 }
